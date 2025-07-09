@@ -1,0 +1,8 @@
+business-dashboard/
+│
+├── app.py                      # Main Streamlit app
+├── requirements.txt            # All required packages
+├── README.md                   # Project overview
+└── sample_data/
+    └── Online Retail.xlsx      # Optional sample data (if open source)
+
